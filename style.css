@@ -1,0 +1,26 @@
+.line{
+    height:6px;
+    width:60px;
+    background-color:black;
+    margin:auto;
+}
+
+body{
+    text-align: center;
+    background: linear-gradient( mediumaquamarine, aquamarine )
+}
+
+#Apps {
+    height: 800px;
+}
+
+
+img{
+    border-radius: 10%;
+    transition: tranform .2s; 
+}
+
+img:hover{
+    transform:scale(0.9);
+}
+
